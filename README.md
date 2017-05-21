@@ -1,5 +1,7 @@
 # egg-s
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yinshuxun/egg-s.svg)](https://greenkeeper.io/)
+
 shuxun's first egg project
 
 ## QuickStart
